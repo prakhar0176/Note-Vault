@@ -1,0 +1,16 @@
+{
+  "name": "note-vault",
+  "version": "1.0.0",
+  "description": "This is a MERN Stack App where we can log in and store our notes to remeber our day to day task.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Prakar Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
